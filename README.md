@@ -1,7 +1,7 @@
 # RoboND-BuildMyRobot
 	Project library of the first project of udacity nanodegree program Robotics Software Engineer.
  
-##Setup
+## Setup
 
 	Involves the updation of ubuntu with the command given below:
    		sudo apt-get update
@@ -12,7 +12,7 @@
    		cmake .. && make
    		gazebo myworld
  
-##Implementation
+## Implementation
 
 	This workspace is completely developed with gazebo simulator. Screenshots are attached below:
  
