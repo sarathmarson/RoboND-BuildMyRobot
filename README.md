@@ -1,5 +1,5 @@
 # RoboND-BuildMyRobot
-	Project library of the first project of udacity nanodegree program Robotics Software Engineer.
+Project library of the first project of udacity nanodegree program Robotics Software Engineer.
  
 ## Setup
 
@@ -9,8 +9,8 @@ Involves the updation of ubuntu with the command given below:
 After updation, launch the world with the following commands:
     
 	mkdir build
-   		cmake .. && make
-   		gazebo myworld
+	cmake .. && make
+	gazebo myworld
  
 ## Implementation
 
