@@ -4,6 +4,7 @@ Project library of the first project of udacity nanodegree program Robotics Soft
 ## Setup
 
 Involves the updation of ubuntu with the command given below:
+
 	sudo apt-get update
     
 After updation, launch the world with the following commands:
